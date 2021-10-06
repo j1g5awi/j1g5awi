@@ -6,9 +6,8 @@
 
 I'm **Jigsaw**,also knows as **j1g5aw**.
 
-- 🔭 I’m currently working on [NoDice](https://github.com/thereisnodice/nodice2), [Nonebot_Plugin_Manager](https://github.com/Jigsaw111/nonebot_plugin_manager).
+- 🔭 I’m currently working on [Nonebot](https://github.com/nonebot).
 - 🌱 I’m currently learning Go and Python.
-- 👯 I’m looking to collaborate on [Thereisnodice](https://github.com/thereisnodice).
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
