@@ -4,8 +4,11 @@
 
 # Hi there 👋
 
-I'm **Jigsaw**,also knows as **j1g5aw**.
+I'm **Jigsaw**, also knows as **j1g5aw**.
 
-- 🔭 I’m currently working on [Nonebot](https://github.com/nonebot).
+- 🔭 I’m currently working on [NoneBot](https://github.com/nonebot).
 - 🌱 I’m currently learning Go and Python.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
