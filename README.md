@@ -19,15 +19,13 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   44 mins             ███████████████████████░░   95.13% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-gitignore                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-adapter-telegram         46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/11/2022 04:15:20 UTC
+ Last Updated on 26/11/2022 04:14:36 UTC
 <!--END_SECTION:waka-->
