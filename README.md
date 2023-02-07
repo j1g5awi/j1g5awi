@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ nonebot-plugin-all4one   5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/02/2023 04:14:00 UTC
+ Last Updated on 07/02/2023 04:14:08 UTC
 <!--END_SECTION:waka-->
