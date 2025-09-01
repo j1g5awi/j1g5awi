@@ -19,13 +19,12 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 mins              █████████████████░░░░░░░░   69.64 % 
-JSON                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.36 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-wiliwili                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2025 04:16:12 UTC
+ Last Updated on 01/09/2025 04:24:24 UTC
 <!--END_SECTION:waka-->
