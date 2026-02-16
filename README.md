@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,20 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      4 hrs 46 mins       █████████████░░░░░░░░░░░░   51.02 % 
-Bash                     2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Nix                      4 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.00 % 
+Bash                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🐱‍💻 Projects: 
-new-nix-config           7 hrs 7 mins        ███████████████████░░░░░░   76.13 % 
-Unknown Project          2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-nixos-config             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-TraNX                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+new-nix-config           7 hrs 21 mins       █████████████████░░░░░░░░   69.64 % 
+Unknown Project          2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+switchfin                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+nixos-config             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+TraNX                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
- Last Updated on 15/02/2026 05:16:09 UTC
+ Last Updated on 16/02/2026 05:23:30 UTC
 <!--END_SECTION:waka-->
