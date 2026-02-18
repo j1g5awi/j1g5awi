@@ -19,19 +19,19 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      4 hrs 22 mins       █████████████░░░░░░░░░░░░   52.05 % 
-CSS                      1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Bash                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Nix                      3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.72 % 
+CSS                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Bash                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+C++                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-new-nix-config           6 hrs 47 mins       ████████████████████░░░░░   80.61 % 
-Unknown Project          1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-switchfin                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-nixos-config             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+new-nix-config           5 hrs 26 mins       █████████████████░░░░░░░░   67.68 % 
+Unknown Project          2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+switchfin                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+nixos-config             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
- Last Updated on 17/02/2026 05:18:15 UTC
+ Last Updated on 18/02/2026 05:19:54 UTC
 <!--END_SECTION:waka-->
