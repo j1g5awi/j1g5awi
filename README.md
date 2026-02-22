@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C023%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,20 +19,19 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      3 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.17 % 
-Markdown                 1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Bash                     1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-C++                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Nix                      2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
+Markdown                 1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+C++                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🐱‍💻 Projects: 
-new-nix-config           5 hrs 20 mins       ████████████████░░░░░░░░░   64.03 % 
-Unknown Project          2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-switchfin                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-nixos-config             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-mpvacious                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+new-nix-config           3 hrs 1 min         █████████████░░░░░░░░░░░░   52.34 % 
+Unknown Project          2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
+switchfin                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+mpvacious                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
- Last Updated on 21/02/2026 05:02:13 UTC
+ Last Updated on 22/02/2026 05:13:07 UTC
 <!--END_SECTION:waka-->
