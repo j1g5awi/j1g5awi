@@ -19,19 +19,15 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      2 hrs 36 mins       ███████████████████████░░   92.49 % 
-Diff                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Nix                      1 hr                ████████████████████████░   94.79 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🐱‍💻 Projects: 
-new-nix-config           2 hrs 42 mins       ████████████████████████░   96.38 % 
-mpvacious                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-xuma3d                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+new-nix-config           1 hr                ████████████████████████░   95.49 % 
+xuma3d                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 
- Last Updated on 27/02/2026 05:11:50 UTC
+ Last Updated on 28/02/2026 04:50:37 UTC
 <!--END_SECTION:waka-->
