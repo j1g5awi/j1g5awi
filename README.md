@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C023%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,15 +19,17 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      1 hr                ████████████████████████░   94.79 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Nix                      1 hr                ███████████████████████░░   93.49 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-new-nix-config           1 hr                ████████████████████████░   95.49 % 
-xuma3d                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+new-nix-config           1 hr                ████████████████████████░   94.18 % 
+xuma3d                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+plugin-pipe              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
- Last Updated on 28/02/2026 04:50:37 UTC
+ Last Updated on 01/03/2026 05:14:26 UTC
 <!--END_SECTION:waka-->
