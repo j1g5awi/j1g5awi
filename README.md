@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,13 +19,13 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 mins             ██████████████████████░░░   88.49 % 
-srt                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other                    21 mins             ██████████████████████░░░   88.57 % 
+srt                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             █████████████████████████   100.00 % 
+Unknown Project          24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/03/2026 05:06:29 UTC
+ Last Updated on 09/03/2026 05:16:44 UTC
 <!--END_SECTION:waka-->
