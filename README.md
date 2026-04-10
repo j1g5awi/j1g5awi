@@ -19,12 +19,12 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+new-nix-config           28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 05:45:58 UTC
+ Last Updated on 10/04/2026 05:54:04 UTC
 <!--END_SECTION:waka-->
