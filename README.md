@@ -19,20 +19,20 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      5 hrs 23 mins       ██████████████████████░░░   86.54 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Lua                      5 hrs 23 mins       ██████████████████████░░░   86.58 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-nvim                     3 hrs 19 mins       █████████████░░░░░░░░░░░░   53.26 % 
-flash-zh.nvim            1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.33 % 
-Unknown Project          39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+nvim                     3 hrs 19 mins       █████████████░░░░░░░░░░░░   53.29 % 
+flash-zh.nvim            1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Unknown Project          39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 xuma3d                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 new-nix-config           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
- Last Updated on 12/05/2026 06:32:47 UTC
+ Last Updated on 13/05/2026 06:43:27 UTC
 <!--END_SECTION:waka-->
