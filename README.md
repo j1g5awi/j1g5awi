@@ -19,14 +19,13 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 mins              ████████████░░░░░░░░░░░░░   49.54 % 
-Markdown                 3 mins              ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Text                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Other                    5 mins              ███████████████░░░░░░░░░░   59.36 % 
+Markdown                 3 mins              ██████████░░░░░░░░░░░░░░░   40.64 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████████████   100.00 % 
+Unknown Project          8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 06:41:32 UTC
+ Last Updated on 31/05/2026 07:40:22 UTC
 <!--END_SECTION:waka-->
