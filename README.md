@@ -19,18 +19,16 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    33 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
-Markdown                 24 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Roff                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Nix                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Other                    25 mins             ███████████░░░░░░░░░░░░░░   43.07 % 
+Roff                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Nix                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
 
 🐱‍💻 Projects: 
-new-nix-config           37 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
-Unknown Project          29 mins             ████████░░░░░░░░░░░░░░░░░   32.02 % 
-wiliwili                 24 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+new-nix-config           34 mins             ███████████████░░░░░░░░░░   58.65 % 
+wiliwili                 24 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
 ```
 
 
- Last Updated on 16/07/2026 06:11:43 UTC
+ Last Updated on 17/07/2026 06:10:29 UTC
 <!--END_SECTION:waka-->
