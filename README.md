@@ -17,20 +17,20 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     3 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.03 % 
-C++                      2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Nix                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Bash                     2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+C++                      2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Nix                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🐱‍💻 Projects: 
-absrt                    3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
-librime-python           2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
-new-nix-config           48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Unknown Project          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-jigsaw                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+librime-python           2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+absrt                    2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+new-nix-config           41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Unknown Project          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+jigsaw                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
- Last Updated on 24/07/2026 06:20:33 UTC
+ Last Updated on 25/07/2026 06:11:06 UTC
 <!--END_SECTION:waka-->
