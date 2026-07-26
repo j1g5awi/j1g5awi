@@ -11,26 +11,28 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%2024%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-C++                      2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Nix                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+C++                      2 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.27 % 
+Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Nix                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🐱‍💻 Projects: 
-librime-python           2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
-absrt                    2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-new-nix-config           41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Unknown Project          37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-jigsaw                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+librime-python           2 hrs 50 mins       █████████████████░░░░░░░░   68.19 % 
+Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+jigsaw                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+new-nix-config           18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+absrt                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 
 
- Last Updated on 25/07/2026 06:11:06 UTC
+ Last Updated on 26/07/2026 06:31:26 UTC
 <!--END_SECTION:waka-->
