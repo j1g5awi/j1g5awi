@@ -11,28 +11,42 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C049%20hrs%2024%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 3 mins        ██████████████░░░░░░░░░░░   55.02 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Nix                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Other                    19 mins             █████████████████████░░░░   83.11 % 
+JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 
 🐱‍💻 Projects: 
-librime-python           2 hrs 50 mins       ███████████████████░░░░░░   76.15 % 
-jigsaw                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-new-nix-config           18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-absrt                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+jigsaw                   18 mins             ████████████████████░░░░░   80.33 % 
+Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 mins (80.33%)
+
+✍️ 0 lines written by AI, 57 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.06 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+Deepseek                 111 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 16 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 06:57:14 UTC
+ Last Updated on 28/07/2026 06:20:46 UTC
 <!--END_SECTION:waka-->
