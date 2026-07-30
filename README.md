@@ -11,9 +11,9 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,39 +21,38 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 mins             ████████████████░░░░░░░░░   65.32 % 
-Python                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Python                   6 mins              ███████████████████████░░   90.74 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🐱‍💻 Projects: 
-jigsaw                   20 mins             █████████████████░░░░░░░░   69.30 % 
-Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-maxstasis                4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+maxstasis                4 mins              ████████████████░░░░░░░░░   62.00 % 
+jigsaw                   1 min               ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Unknown Project          0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (84.54%)
+⏱ AI Coding Time: 6 mins (90.74%)
 
-✍️ 221 lines written by AI, 57 lines written by hand (79.5% AI-written)
+✍️ 221 lines written by AI, 2 lines written by hand (99.1% AI-written)
 
 🔤 105,622 Input Tokens, 2,691 Output Tokens
 
 💵 $0.42 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 Deepseek                 332 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.5% of written lines came from AI
-📄 Detailed Prompter — average 878 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 20.5% of changed lines were hand-edited
+🤖 AI-Driven — 99.1% of written lines came from AI
+📚 Verbose Prompter — average 1,955 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 06:25:39 UTC
+ Last Updated on 30/07/2026 06:21:43 UTC
 <!--END_SECTION:waka-->
