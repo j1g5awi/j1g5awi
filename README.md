@@ -21,43 +21,43 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        4 hrs 39 mins       █████████████░░░░░░░░░░░░   53.74 % 
-Nix                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-C++                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+C                        6 hrs 57 mins       ████████████████░░░░░░░░░   63.48 % 
+Nix                      1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+C++                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-jigsaw                   4 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.18 % 
-new-nix-config           1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-wiliwili                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-libsmb2                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Test                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+jigsaw                   6 hrs 33 mins       ███████████████░░░░░░░░░░   59.76 % 
+new-nix-config           1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+wiliwili                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+libsmb2                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Test                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 14 mins (83.56%)
+⏱ AI Coding Time: 9 hrs 31 mins (86.76%)
 
-✍️ 9,374 lines written by AI, 375 lines written by hand (96.15% AI-written)
+✍️ 9,566 lines written by AI, 375 lines written by hand (96.23% AI-written)
 
-🔤 2,036,500 Input Tokens, 322,560 Output Tokens
+🔤 2,315,274 Input Tokens, 343,994 Output Tokens
 
-💵 $10.95 Estimated AI Cost This Week
+💵 $12.11 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 82 AI Prompts
+🧠 9 AI Sessions, 83 AI Prompts
 
-Deepseek                 9,676 lines         █████████████████████████   100.00 % 
+Deepseek                 9,880 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.15% of written lines came from AI
-📝 Concise Prompter — average 247 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.93% of changed lines were hand-edited
+🤖 AI-Driven — 96.23% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 6.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/08/2026 06:22:12 UTC
+ Last Updated on 05/08/2026 06:22:07 UTC
 <!--END_SECTION:waka-->
