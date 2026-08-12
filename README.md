@@ -21,40 +21,38 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      28 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
-Nix                      28 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
-Bash                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Lua                      28 mins             ███████████░░░░░░░░░░░░░░   45.88 % 
+Nix                      28 mins             ███████████░░░░░░░░░░░░░░   45.17 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 🐱‍💻 Projects: 
-new-nix-config           57 mins             ██████████████████████░░░   87.75 % 
-absrt                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+new-nix-config           57 mins             ███████████████████████░░   91.05 % 
+absrt                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (16.36%)
+⏱ AI Coding Time: 8 mins (13.22%)
 
-✍️ 25 lines written by AI, 7 lines written by hand (78.12% AI-written)
+✍️ 23 lines written by AI, 7 lines written by hand (76.67% AI-written)
 
-🔤 98,630 Input Tokens, 5,488 Output Tokens
+🔤 70,705 Input Tokens, 4,812 Output Tokens
 
-💵 $0.42 Estimated AI Cost This Week
+💵 $0.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Deepseek                 182 lines           █████████████████████████   100.00 % 
+Deepseek                 56 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.12% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 36.26% of changed lines were hand-edited
+🤖 AI-Driven — 76.67% of written lines came from AI
+📝 Concise Prompter — average 41 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 37.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 05:00:51 UTC
+ Last Updated on 12/08/2026 05:26:19 UTC
 <!--END_SECTION:waka-->
