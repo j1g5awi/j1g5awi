@@ -21,13 +21,14 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      28 mins             ███████████░░░░░░░░░░░░░░   45.88 % 
-Nix                      28 mins             ███████████░░░░░░░░░░░░░░   45.17 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Lua                      28 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
+Nix                      28 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🐱‍💻 Projects: 
-new-nix-config           57 mins             ███████████████████████░░   91.05 % 
+new-nix-config           57 mins             ███████████████████████░░   91.02 % 
 absrt                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,5 +55,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/08/2026 05:26:19 UTC
+ Last Updated on 13/08/2026 05:29:15 UTC
 <!--END_SECTION:waka-->
