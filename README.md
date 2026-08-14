@@ -21,39 +21,37 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Lua                      28 mins             ███████████░░░░░░░░░░░░░░   45.87 % 
-Nix                      28 mins             ███████████░░░░░░░░░░░░░░   45.15 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Python                   14 mins             ██████████████████████░░░   89.70 % 
+Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🐱‍💻 Projects: 
-new-nix-config           57 mins             ███████████████████████░░   91.02 % 
-absrt                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+jigsaw                   15 mins             █████████████████████████   98.46 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (13.22%)
+⏱ AI Coding Time: 16 mins (99.9%)
 
-✍️ 23 lines written by AI, 7 lines written by hand (76.67% AI-written)
+✍️ 216 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 70,705 Input Tokens, 4,812 Output Tokens
+🔤 99,531 Input Tokens, 9,195 Output Tokens
 
-💵 $0.28 Estimated AI Cost This Week
+💵 $0.44 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Deepseek                 56 lines            █████████████████████████   100.00 % 
+Deepseek                 217 lines           █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.67% of written lines came from AI
-📝 Concise Prompter — average 41 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 37.08% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 64 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/08/2026 05:29:15 UTC
+ Last Updated on 14/08/2026 05:27:11 UTC
 <!--END_SECTION:waka-->
