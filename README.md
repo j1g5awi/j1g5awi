@@ -21,18 +21,20 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   100.00 % 
+Markdown                 36 mins             ██████████████████░░░░░░░   73.78 % 
+Python                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 
 🐱‍💻 Projects: 
-jigsaw                   12 mins             █████████████████████████   100.00 % 
+Unknown Project          36 mins             ██████████████████░░░░░░░   73.78 % 
+jigsaw                   12 mins             ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (100.0%)
+⏱ AI Coding Time: 12 mins (26.22%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
 
 🔤 15,293 Input Tokens, 664 Output Tokens
 
@@ -44,12 +46,12 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 106 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 08:18:38 UTC
+ Last Updated on 03/09/2026 08:28:00 UTC
 <!--END_SECTION:waka-->
