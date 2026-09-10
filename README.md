@@ -21,21 +21,20 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     36 mins             ████████████░░░░░░░░░░░░░   48.68 % 
-Markdown                 36 mins             ████████████░░░░░░░░░░░░░   48.12 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Text                     36 mins             ███████████████████████░░   93.83 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🐱‍💻 Projects: 
-Unknown Project          53 mins             ██████████████████░░░░░░░   71.45 % 
-jigsaw                   21 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+jigsaw                   21 mins             ██████████████░░░░░░░░░░░   55.02 % 
+Unknown Project          17 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (30.11%)
+⏱ AI Coding Time: 22 mins (58.04%)
 
-✍️ 121 lines written by AI, 30 lines written by hand (80.13% AI-written)
+✍️ 121 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 180,167 Input Tokens, 80,146 Output Tokens
 
@@ -47,12 +46,12 @@ Deepseek                 121 lines           ███████████�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.13% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 48 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 38.58% of changed lines were hand-edited
+🚀 High AI Trust — 27.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 08:32:45 UTC
+ Last Updated on 10/09/2026 08:34:29 UTC
 <!--END_SECTION:waka-->
