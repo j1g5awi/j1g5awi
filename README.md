@@ -21,24 +21,41 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-beancount                48 mins             █████████████████░░░░░░░░   68.57 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Nix                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Diff                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+beancount                48 mins             █████████████░░░░░░░░░░░░   50.31 % 
+Lua                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Nix                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🐱‍💻 Projects: 
-Count                    52 mins             ██████████████████░░░░░░░   73.70 % 
-Unknown Project          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-calibre                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Count                    52 mins             ██████████████░░░░░░░░░░░   54.07 % 
+nvim                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+calibre                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 15 mins (15.73%)
+
+✍️ 29 lines written by AI, 91 lines written by hand (24.17% AI-written)
+
+🔤 34,423 Input Tokens, 62,064 Output Tokens
+
+💵 $11.15 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 6 AI Prompts
+
+Opencode-Cli             31 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 24.17% of written lines came from AI
+📝 Concise Prompter — average 12 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 98.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 10:21:08 UTC
+ Last Updated on 05/10/2026 11:05:37 UTC
 <!--END_SECTION:waka-->
