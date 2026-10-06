@@ -11,9 +11,9 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,23 +21,23 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-beancount                48 mins             █████████████░░░░░░░░░░░░   50.31 % 
-Lua                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Nix                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+beancount                48 mins             ███████████░░░░░░░░░░░░░░   42.15 % 
+Markdown                 35 mins             ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Lua                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Nix                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-Count                    52 mins             ██████████████░░░░░░░░░░░   54.07 % 
-nvim                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Unknown Project          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-calibre                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Count                    52 mins             ███████████░░░░░░░░░░░░░░   45.30 % 
+Unknown Project          23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+nvim                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+flash-zh.nvim            16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (15.73%)
+⏱ AI Coding Time: 15 mins (13.18%)
 
 ✍️ 29 lines written by AI, 91 lines written by hand (24.17% AI-written)
 
@@ -57,5 +57,5 @@ Opencode-Cli             31 lines            ███████████�
 ```
 
 
- Last Updated on 05/10/2026 11:05:37 UTC
+ Last Updated on 06/10/2026 10:58:40 UTC
 <!--END_SECTION:waka-->
