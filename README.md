@@ -11,9 +11,9 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C899%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C900%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,41 +21,41 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         █████████████░░░░░░░░░░░░   53.00 % 
-Lua                      55 mins             ███████████░░░░░░░░░░░░░░   44.99 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Lua                      1 hr 20 mins        █████████████░░░░░░░░░░░░   50.48 % 
+Markdown                 1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.95 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-Unknown Project          54 mins             ███████████░░░░░░░░░░░░░░   43.61 % 
-nvim                     53 mins             ███████████░░░░░░░░░░░░░░   43.05 % 
-flash-zh.nvim            16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+nvim                     1 hr 17 mins        ████████████░░░░░░░░░░░░░   48.97 % 
+Unknown Project          1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   40.63 % 
+flash-zh.nvim            16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
 jigsaw                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (16.7%)
+⏱ AI Coding Time: 51 mins (32.57%)
 
-✍️ 29 lines written by AI, 138 lines written by hand (17.37% AI-written)
+✍️ 29 lines written by AI, 164 lines written by hand (15.03% AI-written)
 
-🔤 138,020 Input Tokens, 71,573 Output Tokens
+🔤 280,970 Input Tokens, 97,331 Output Tokens
 
-💵 $16.57 Estimated AI Cost This Week
+💵 $26.32 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
 Opencode-Cli             31 lines            █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.37% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 87.94% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.03% of written lines came from AI
+📝 Concise Prompter — average 14 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 91.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 11:05:20 UTC
+ Last Updated on 09/10/2026 11:04:22 UTC
 <!--END_SECTION:waka-->
