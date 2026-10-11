@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C900%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2054%20mins-blue?style=flat)
 
@@ -21,24 +21,24 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 33 mins       ████████████████████░░░░░   80.12 % 
-Lua                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 7 hrs 17 mins       █████████████████████░░░░   84.11 % 
+Lua                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 hrs 22 mins       ███████████████████░░░░░░   77.33 % 
-nvim                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-flash-zh.nvim            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Unknown Project          7 hrs 6 mins        ████████████████████░░░░░   81.87 % 
+nvim                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+flash-zh.nvim            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 jigsaw                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (12.44%)
+⏱ AI Coding Time: 51 mins (9.95%)
 
-✍️ 29 lines written by AI, 279 lines written by hand (9.42% AI-written)
+✍️ 29 lines written by AI, 317 lines written by hand (8.38% AI-written)
 
 🔤 559,852 Input Tokens, 285,102 Output Tokens
 
@@ -50,12 +50,12 @@ Opencode-Cli             31 lines            ███████████�
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.42% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.38% of written lines came from AI
 📝 Concise Prompter — average 14 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.27% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 10:22:16 UTC
+ Last Updated on 11/10/2026 10:30:18 UTC
 <!--END_SECTION:waka-->
