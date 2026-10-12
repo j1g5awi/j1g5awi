@@ -11,7 +11,7 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 - 📫 How to reach me: [Blog](https://blog.maddestroyer.xyz/).
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C906%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2054%20mins-blue?style=flat)
 
@@ -21,41 +21,40 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 17 mins       █████████████████████░░░░   84.11 % 
-Lua                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 7 hrs 16 mins       ██████████████████████░░░   87.77 % 
+Lua                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 6 mins        ████████████████████░░░░░   81.87 % 
-nvim                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-flash-zh.nvim            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Unknown Project          7 hrs 3 mins        █████████████████████░░░░   85.07 % 
+nvim                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+flash-zh.nvim            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 jigsaw                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (9.95%)
+⏱ AI Coding Time: 36 mins (7.36%)
 
-✍️ 29 lines written by AI, 317 lines written by hand (8.38% AI-written)
+✍️ 0 lines written by AI, 296 lines written by hand (0.0% AI-written)
 
-🔤 559,852 Input Tokens, 285,102 Output Tokens
+🔤 525,429 Input Tokens, 223,038 Output Tokens
 
-💵 $104.00 Estimated AI Cost This Week
+💵 $92.85 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
-Opencode-Cli             31 lines            █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.38% of written lines came from AI
-📝 Concise Prompter — average 14 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.09% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 10:30:18 UTC
+ Last Updated on 12/10/2026 11:34:49 UTC
 <!--END_SECTION:waka-->
