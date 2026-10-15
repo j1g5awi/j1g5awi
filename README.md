@@ -21,41 +21,41 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 50 mins       █████████████████████░░░░   85.35 % 
-Lua                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-TSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 6 hrs 12 mins       ██████████████████████░░░   89.46 % 
+Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 58 mins       ██████████████████████░░░   87.02 % 
-nvim                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-jigsaw                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Unknown Project          6 hrs 19 mins       ███████████████████████░░   91.24 % 
+nvim                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+jigsaw                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (10.38%)
+⏱ AI Coding Time: 44 mins (10.67%)
 
-✍️ 352 lines written by AI, 297 lines written by hand (54.24% AI-written)
+✍️ 352 lines written by AI, 185 lines written by hand (65.55% AI-written)
 
-🔤 831,602 Input Tokens, 267,324 Output Tokens
+🔤 728,005 Input Tokens, 257,815 Output Tokens
 
-💵 $129.39 Estimated AI Cost This Week
+💵 $123.97 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 Opencode-Cli             352 lines           █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.24% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
+⚖️ Balanced with AI — 65.55% of written lines came from AI
+📝 Concise Prompter — average 21 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 62.71% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 09:12:29 UTC
+ Last Updated on 15/10/2026 08:45:19 UTC
 <!--END_SECTION:waka-->
