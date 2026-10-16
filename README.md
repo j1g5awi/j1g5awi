@@ -21,41 +21,39 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 12 mins       ██████████████████████░░░   89.46 % 
-Lua                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-TSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 6 hrs 1 min         ████████████████████████░   94.92 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+TSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 19 mins       ███████████████████████░░   91.24 % 
-nvim                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-jigsaw                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Unknown Project          6 hrs 9 mins        ████████████████████████░   96.86 % 
+jigsaw                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (10.67%)
+⏱ AI Coding Time: 13 mins (3.49%)
 
-✍️ 352 lines written by AI, 185 lines written by hand (65.55% AI-written)
+✍️ 352 lines written by AI, 159 lines written by hand (68.88% AI-written)
 
-🔤 728,005 Input Tokens, 257,815 Output Tokens
+🔤 306,173 Input Tokens, 44,286 Output Tokens
 
-💵 $123.97 Estimated AI Cost This Week
+💵 $118.50 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 Opencode-Cli             352 lines           █████████████████████████   100.00 % 
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.55% of written lines came from AI
+🤖 AI-Driven — 68.88% of written lines came from AI
 📝 Concise Prompter — average 21 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 53.0% of changed lines were hand-edited
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 43.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 08:45:19 UTC
+ Last Updated on 16/10/2026 08:40:42 UTC
 <!--END_SECTION:waka-->
