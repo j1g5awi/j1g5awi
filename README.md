@@ -21,22 +21,22 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 1 min         ████████████████████████░   94.92 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-TSV                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 1 hr 44 mins        █████████████████████░░░░   84.33 % 
+Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 9 mins        ████████████████████████░   96.86 % 
-jigsaw                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Unknown Project          1 hr 51 mins        ███████████████████████░░   90.32 % 
+jigsaw                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (3.49%)
+⏱ AI Coding Time: 13 mins (10.75%)
 
-✍️ 352 lines written by AI, 159 lines written by hand (68.88% AI-written)
+✍️ 352 lines written by AI, 44 lines written by hand (88.89% AI-written)
 
 🔤 306,173 Input Tokens, 44,286 Output Tokens
 
@@ -48,12 +48,12 @@ Opencode-Cli             352 lines           ███████████�
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.88% of written lines came from AI
+🤖 AI-Driven — 88.89% of written lines came from AI
 📝 Concise Prompter — average 21 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 43.68% of changed lines were hand-edited
+🚀 High AI Trust — 24.3% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 08:40:42 UTC
+ Last Updated on 17/10/2026 08:11:52 UTC
 <!--END_SECTION:waka-->
