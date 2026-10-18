@@ -21,22 +21,21 @@ I'm **Jigsaw**, also knows as **j1g5aw**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 44 mins        █████████████████████░░░░   84.33 % 
-Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   11 mins             ███████████████░░░░░░░░░░   61.80 % 
+TSV                      7 mins              █████████░░░░░░░░░░░░░░░░   37.26 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 51 mins        ███████████████████████░░   90.32 % 
-jigsaw                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+jigsaw                   11 mins             ███████████████░░░░░░░░░░   61.80 % 
+Unknown Project          7 mins              ██████████░░░░░░░░░░░░░░░   38.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (10.75%)
+⏱ AI Coding Time: 13 mins (68.63%)
 
-✍️ 352 lines written by AI, 44 lines written by hand (88.89% AI-written)
+✍️ 352 lines written by AI, 6 lines written by hand (98.32% AI-written)
 
 🔤 306,173 Input Tokens, 44,286 Output Tokens
 
@@ -48,12 +47,12 @@ Opencode-Cli             352 lines           ███████████�
 MiMo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.89% of written lines came from AI
+🤖 AI-Driven — 98.32% of written lines came from AI
 📝 Concise Prompter — average 21 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 24.3% of changed lines were hand-edited
+🚀 High AI Trust — 5.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 08:11:52 UTC
+ Last Updated on 18/10/2026 08:28:47 UTC
 <!--END_SECTION:waka-->
